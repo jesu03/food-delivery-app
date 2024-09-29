@@ -43,11 +43,7 @@ const Signin = () => {
           </div>
         </div>
       </div>
-<<<<<<< HEAD
       <div class="form__btns"><a class="primary-btn" href="#">Sign up</a><a class="primary-btn" href="#">Sign in</a></div>
-=======
-      <div class="form__btns"><a class="primary-btn" href="#">Sign up</a><a class="primary-btn" href="#">Forgot password?</a></div>
->>>>>>> f091dd24cb7b54df526123abad4fc2fdb65f871d
     </form>
   </main>
     <h2>{user?.displayName}</h2>
