@@ -1,0 +1,21 @@
+.playstore{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    animation: fadeIn 3s;
+    align-items: center;
+    margin-top: 60px;
+
+}
+.playstore h1{
+    margin-bottom: 20px;
+}
+.playstore-img img{
+    justify-content: space-between;
+    margin-right: 20px;
+    transition: 0.6s ease-out;
+}
+.playstore-img img:hover{
+    transform: scale(1.03);
+}
